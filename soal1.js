@@ -6,4 +6,6 @@ if (jobDivision == "HR") {
   console.log("Tugas saya adalah membuat laporan keuangan");
 } else if (jobDivision == "Sales") {
   console.log("Tugas saya adalah Melakukan penjualan");
-} else console.log("Anda Bukan Karyawan");
+} else {
+  console.log("Anda Bukan Karyawan");
+}
